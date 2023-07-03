@@ -1,2 +1,2 @@
 # gh-first-action
-GitHub DevOpsL: Git Action tutorial
+GitHub DevOps: Git Action tutorial
